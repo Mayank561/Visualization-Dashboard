@@ -13,7 +13,7 @@ function App() {
     //asynchronous function to fetch data from server and updating the state
     const getDataFromDB = async() => {
         try{
-            const response = await axios.get("http://localhost:5000/api/data/all");
+            const response = await axios.get("https://visualization-dashboard-lvkl.onrender.com/api/data/all");
             setMainData(response.data.data)
         }
         catch(e){
