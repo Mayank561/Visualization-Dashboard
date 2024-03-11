@@ -42,10 +42,10 @@
     <li>node app.js</li>
     <li>Load configuration from .env file
     <p>MONGODB_URI=<your-mongodb-uri>
-      PORT=<></p>
+      PORT=" " </p>
     </li>
     <li>Connect to MongoDB database</li>
-    <li>Open your browser and navigate to http://localhost:8000/</li>
+    <li>Open your browser and navigate to <a href=http://localhost:8000/</a></li>
   </ol>
 </div>
 <div>
