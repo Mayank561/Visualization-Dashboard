@@ -36,9 +36,12 @@
     <li>Clone the repository:https://github.com/Mayank561/Visualization-Dashboard</li>
     <li>cd visualization-dashboard</li>
     <li>cd client</li>
-    <li>npm install</li>
+    <li>Install the dependencies<p>npm install</p></li>
     <li>npm start</li>
     <li>cd server</li>
     <li>node app.js</li>
+    <li>Load configuration from .env file</li>
+    <li>Connect to MongoDB database</li>
+    <li>Open your browser and navigate to http://localhost:8000/</li>
   </ol>
 </div>
