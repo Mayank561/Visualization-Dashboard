@@ -45,7 +45,7 @@
       PORT=" " </p>
     </li>
     <li>Connect to MongoDB database</li>
-    <li>Open your browser and navigate to:https://visualization-dashboard-five.vercel.app/></li>
+    <li>Open your browser and navigate to:https://visualization-dashboard-five.vercel.app</li>
 
   </ol>
 </div>
