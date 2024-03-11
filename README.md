@@ -36,12 +36,19 @@
     <li>Clone the repository:https://github.com/Mayank561/Visualization-Dashboard</li>
     <li>cd visualization-dashboard</li>
     <li>cd client</li>
-    <li>Install the dependencies<p>npm install</p></li>
+    <li>npm install</li>
     <li>npm start</li>
     <li>cd server</li>
     <li>node app.js</li>
-    <li>Load configuration from .env file</li>
+    <li>Load configuration from .env file
+    <p>MONGODB_URI=<your-mongodb-uri>
+      PORT=<></p>
+    </li>
     <li>Connect to MongoDB database</li>
     <li>Open your browser and navigate to http://localhost:8000/</li>
   </ol>
+</div>
+<div>
+  <h1>Host Link</h1>
+  <a href= "https://visualization-dashboard-five.vercel.app/"/>
 </div>
