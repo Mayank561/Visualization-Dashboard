@@ -26,7 +26,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 // Set 'credentials: true' to pass headers, cookies, etc. to browser/frontend
-app.use(cors());
+app.use(cors({https://visualization-dashboard-five.vercel.app/}));
 
 // Route splitting
 app.use("/api/data", reportRouter);
