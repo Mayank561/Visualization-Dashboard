@@ -1,4 +1,4 @@
-                                                                <h1>Data Visualization Dashboard</h1>
+<h1>Data Visualization Dashboard</h1>
                                                                          
 <p>Welcome to the Data Visualization Dashboard repository! This dashboard provides insightful visualizations and data representation for our website.</p>
 
@@ -33,6 +33,12 @@
 <p>To get started with the Data Visualization Dashboard:</p>
 <div>
   <ol>
-    <li></li>
+    <li>Clone the repository:https://github.com/Mayank561/Visualization-Dashboard</li>
+    <li>cd visualization-dashboard</li>
+    <li>cd client</li>
+    <li>npm install</li>
+    <li>npm start</li>
+    <li>cd server</li>
+    <li>node app.js</li>
   </ol>
 </div>
