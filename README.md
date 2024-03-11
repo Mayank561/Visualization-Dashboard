@@ -50,5 +50,5 @@
 </div>
 <div>
   <h1>Host Link</h1>
-  <a href="https://visualization-dashboard-five.vercel.app/">Link Text</a>
+  <a href="https://visualization-dashboard-five.vercel.app/">Link </a>
 </div>
