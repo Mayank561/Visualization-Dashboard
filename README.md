@@ -4,6 +4,7 @@
 
 <h2>Screenshots</h2>
 <p>Here are some enticing snapshots showcasing the features and functionalities of our visualization dashboard:</p>
+
 ![Screenshot 2024-03-11 181022](https://github.com/Mayank561/Visualization-Dashboard/assets/108197241/282ac945-c0c8-4f4e-8332-3b9f7c9abaeb)
 
 ![Screenshot 2024-03-11 181036](https://github.com/Mayank561/Visualization-Dashboard/assets/108197241/4d3f7871-b51a-44bc-872f-a3bb2c08a11c)
@@ -12,4 +13,26 @@
 
 ![Screenshot 2024-03-11 181103](https://github.com/Mayank561/Visualization-Dashboard/assets/108197241/eecd3915-f8ad-4451-a73c-9fadf9a6ab19)
 
-![Uploading Screenshot 2024-03-11 181114.png…]()
+![Screenshot 2024-03-11 181114](https://github.com/Mayank561/Visualization-Dashboard/assets/108197241/af6d3f96-b67c-406a-a6e4-2fa4b01e17a8)
+
+<h1>About</h1>
+<p>This dashboard leverages the power of the MERN (MongoDB, Express, React, Node.js) stack to provide a seamless and interactive experience for visualizing and analyzing data from our website. The visualizations are powered by the Chart.js library, enhancing our ability to understand trends and patterns within the data.</p>
+
+<h1>Tech Stacks</h1>
+<div>
+    <ul>
+      <li>MongoDB: The database layer storing the essential data for the dashboard.</li>
+      <li>Express: The backend framework providing APIs to fetch and manage data.</li>
+      <li>React: The frontend framework rendering the dynamic and user-friendly interface.</li>
+      <li>Node.js: The runtime environment for server-side scripting.</li>
+      <li>Chart.js: A powerful library for creating visually appealing and interactive charts.</li>
+    </ul>
+</div>
+
+<h1>Installation</h1>
+<p>To get started with the Data Visualization Dashboard:</p>
+<div>
+  <ol>
+    <li></li>
+  </ol>
+</div>
