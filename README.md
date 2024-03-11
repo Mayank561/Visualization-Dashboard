@@ -33,7 +33,7 @@
 <p>To get started with the Data Visualization Dashboard:</p>
 <div>
   <ol>
-    <li>Clone the repository:https://github.com/Mayank561/Visualization-Dashboard</li>
+    <li>Clone the repository: https://github.com/Mayank561/Visualization-Dashboard</li>
     <li>cd visualization-dashboard</li>
     <li>cd client</li>
     <li>npm install</li>
@@ -45,7 +45,8 @@
       PORT=" " </p>
     </li>
     <li>Connect to MongoDB database</li>
-    <li>Open your browser and navigate to <a href=http://localhost:8000/</a></li>
+    <li>Open your browser and navigate to:https://visualization-dashboard-five.vercel.app/></li>
+
   </ol>
 </div>
 <div>
