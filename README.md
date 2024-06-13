@@ -5,7 +5,6 @@
 <h2>Screenshots</h2>
 <p>Here are some enticing snapshots showcasing the features and functionalities of our visualization dashboard:</p>
 
-![Screenshot 2024-03-11 181022]("C:\Users\mayan\Pictures\Screenshots\Screenshot 2024-03-11 181022.png")
 
 ![Screenshot 2024-03-11 181036](https://github.com/Mayank561/Visualization-Dashboard/assets/108197241/4d3f7871-b51a-44bc-872f-a3bb2c08a11c)
 
