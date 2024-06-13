@@ -5,6 +5,8 @@
 <h2>Screenshots</h2>
 <p>Here are some enticing snapshots showcasing the features and functionalities of our visualization dashboard:</p>
 
+![Screenshot 2024-03-11 181022](https://github.com/Mayank561/Visualization-Dashboard/assets/108197241/93b30fb2-6093-4e9d-8d1c-7e0c062fc1ee)
+
 ![Screenshot 2024-03-11 181036](https://visualization-dashboard-five.vercel.app/)
 
 
